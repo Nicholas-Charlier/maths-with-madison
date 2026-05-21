@@ -23,7 +23,7 @@ const values = [
 
 const credentials = [
   "BSc Mathematics & Economics — LSE",
-  "Investment Banking — Goldman Sachs",
+  "Investment Banking",
   "500+ hours of 1-to-1 tutoring",
   "AQA · Edexcel · OCR · CAIE · WJEC",
 ];
